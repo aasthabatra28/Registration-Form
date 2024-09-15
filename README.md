@@ -1,0 +1,1 @@
+This repository contains a simple HTML registration form. The form allows users to input their personal information and submit it. It is designed for demonstration purposes and does not include server-side processing or validation.
